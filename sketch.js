@@ -12,4 +12,17 @@ function draw() {
 
   fill(0);
   ellipse(40,33,50,50,50);
+
+  fill(250,0);
+  square(20,20,20,20);
+
+  fill(250,0);
+  square(20,20,20,20);
+
+  fill(250,0);
+  square(20,20,20,20);
+
+
+
+  
 }
